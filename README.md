@@ -14,12 +14,12 @@ Analyzes customer spending behavior
 Monitors weekly and yearly trends
 Provides actionable business insights
 
-##Tech Stack
+## Tech Stack
 SQL (PostgreSQL) – Data storage & querying
 Power BI – Data visualization & dashboard
 CSV Files – Data source
 
-##Dataset Information
+## Dataset Information
 
 This project uses four CSV files containing transaction and customer data:
 
@@ -28,7 +28,7 @@ cc_add.csv – Additional weekly transaction data
 customer.csv – Customer demographic details
 cust_add.csv – Additional customer data
 
-##Key Insights
+## Key Insights
 Total Revenue: 55.4M+ | Transactions: 45M | Interest: 7.9M
 Revenue grew 28.8% WoW with stable quarterly performance
 Male customers contribute slightly higher revenue than females
@@ -38,7 +38,7 @@ Highest spending in Bills, Entertainment, Fuel
 Core customers: Age 30–50 & High-income group
 Activation Rate: 57.5% | Delinquency Rate: 6.06%
 
-##Use Cases
+## Use Cases
 Financial performance monitoring
 Customer segmentation
 Business decision support
